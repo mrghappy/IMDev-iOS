@@ -5,14 +5,14 @@ IMDev——爱萌开发者，是由爱萌基于IMSDK开发并完全开源的的�
 
 最新版本号：v1.2.5 修复了群聊bug
 
-## 如何嵌入IMSDK到现有工程
+## 一分钟集成IM SDK
 
 * 1、下载IMSDK，并整合到现有项目中；
 * 2、添加必要的系统框架，配置编译选项；
 * 3、注册成为IMSDK开发者，并创建一个应用；
 * 4、参照 iOS 无界面版API 和 iOS 界面控件版 实现各种IM业务功能。
 
-1、下载IMSDK，并整合到现有项目中 
+1、下载IM SDK，并整合到现有项目中 
 
 * a、进入IMSDK官网下载iOS无界面版IMSDK
 ![img](http://docs.imsdk.im/download/attachments/1343489/%E4%B8%8B%E8%BD%BD.jpg?version=1&modificationDate=1415244531000&api=v2&effects=border-polaroid,blur-border)
@@ -48,7 +48,7 @@ IMDev——爱萌开发者，是由爱萌基于IMSDK开发并完全开源的的�
 4、参照 [here](http://docs.imsdk.im/pages/viewpage.action?pageId=1343957) 中的API接口文档实现IM功能。
 
 
-##嵌入IMSDK之后的效果图
+##成功编译后IMSDK之后的效果
 * 最近联系人界面
 ![img](http://static.oschina.net/uploads/code/201503/23165540_cmod.png)
 * 好友列表
